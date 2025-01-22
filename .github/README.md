@@ -19,13 +19,6 @@ tools** which I encourage you to check:
 - [zeit](https://github.com/Shpota/zeit) - A Fitbit clock face for learners of the German language
 
 
-## What it looks like
-
-### Before :neutral_face: :no_mouth: :unamused: 
-![Before](before.png)
-### After :muscle: :relieved: :heart: :sunglasses: :metal: :horse: :wink: :fire: :dancer: :santa: :fireworks: :cherries: :tada:
-![After](after.png)
-
 ## How to use
 1. Create an empty GitHub repository. Do not initialize it.
 2. Download [the contribute.py script](https://github.com/Shpota/github-activity-generator/archive/master.zip) 
